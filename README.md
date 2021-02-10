@@ -1,4 +1,4 @@
-# daniel-gomez
-mesa-college
+# Daniel Gomez 
+Mesa-College - WebDev152
 <br>
-<a href="/daniel-gomez/chapter1">CHAPTER 1</a>
+<a href="./chapter1">CHAPTER 1</a>
