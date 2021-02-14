@@ -6,4 +6,4 @@ Mesa College - WebDev152
 <a href="./chapter1">CHAPTER 1</a>
 <br>
 <br>
-<a href="./chapter2">CHAPTER 2</a>
+<a href="./chapter2/pacific">CHAPTER 2</a>
