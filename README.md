@@ -7,3 +7,6 @@ Mesa College - WebDev152
 <br>
 <br>
 <a href="./chapter2/pacific/">CHAPTER 2</a>
+<br>
+<br>
+<a href="./extra-credit">EXTRA CREDIT</a>
