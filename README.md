@@ -13,3 +13,8 @@ Mesa College - WebDev152
 <br>
 <br>
 <a href="./extra-credit">TRILLIUM</a>
+<br>
+<br>
+<a href="./chapter3/index.html">CHAPTER 3</a>
+
+
