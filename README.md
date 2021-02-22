@@ -21,7 +21,7 @@ Mesa College - WebDev152
 <a href="./chapter4/ch4pacific">CHAPTER 4</a>
 <br>
 <br>
-<a href="./chapter4/ch4yoga/yoga">CHAPTER 4</a>
+<a href="./chapter4/ch4yoga/yoga">CHAPTER 4 YOGA</a>
 
 
 
