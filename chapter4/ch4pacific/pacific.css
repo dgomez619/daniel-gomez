@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #fff;
 }
@@ -26,3 +27,33 @@ dt {
 .resort {
     color: #247;
 }
+=======
+body{
+    background-color: #fff;
+}
+
+header {
+    background-color: #247;
+    color: #fff;
+}
+
+nav {
+    background-color: #DB9769;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #6354DB;    
+}
+
+dt {
+    color: #003;
+}
+
+.resort {
+    color: #DB9769;
+}
+>>>>>>> ac3465557269b98eb6602667ad7b07a2a5937cdb
