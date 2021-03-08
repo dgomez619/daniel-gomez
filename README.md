@@ -31,6 +31,9 @@ Mesa College - WebDev152
 <br>
 <br>
 <a href="./chapter7/ch7pacific/index.html">CHAPTER 7</a>
+<br>
+<br>
+<a href="./chapter8/ch8pacific/index.html">CHAPTER 7</a>
 
 
 
